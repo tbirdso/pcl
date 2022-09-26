@@ -44,6 +44,8 @@
 #include <pcl/point_representation.h>
 #include <pcl/common/copy_point.h>
 
+#include <pcl/common/io.h>
+
 namespace pcl
 {
   /** \brief KdTree represents the base spatial locator class for kd-tree implementations.
